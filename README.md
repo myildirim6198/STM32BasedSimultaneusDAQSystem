@@ -44,3 +44,7 @@ This repository includes PCB-project files for a STM32 based isolated DAQ-System
 - Bring-Up: In progress
 
 I make no guarantees as to device funtionality. Please review the components, schematics carefully before production.
+
+
+![test](https://github.com/myildirim6198/STM32BasedSimultaneusDAQSystem/blob/main/Images/PictureDAQSystem.png?raw=true)
+
