@@ -16,7 +16,6 @@ This repository includes PCB-project files for a STM32 based isolated DAQ-System
 
 - Microphone Arrays
 - Ultrasound
-- Audio algorithm development testing plattform
 - Audio Analyzer
 - Multi redundant Sensor Arrays for multi sensor data fusion applications
 - Other Embedded Data Aqcuisition Systems
