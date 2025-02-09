@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=GND Pin=C88-1
+Removed Pin From Net: NetName=GND Pin=C89-1
+Removed Pin From Net: NetName=GND Pin=C90-1
+Removed Pin From Net: NetName=GND Pin=C91-1
+Removed Pin From Net: NetName=+3V3ANA Pin=C91-2
+Removed Pin From Net: NetName=GND Pin=C92-1
+Removed Pin From Net: NetName=+3V3ANA Pin=C92-2
+Added Pin To Net: NetName=GNDANA Pin=C88-1
+Added Pin To Net: NetName=GNDANA Pin=C89-1
+Added Pin To Net: NetName=GNDANA Pin=C90-1
+Added Pin To Net: NetName=GNDANA Pin=C91-1
+Added Pin To Net: NetName=+3V3FE Pin=C91-2
+Added Pin To Net: NetName=GNDANA Pin=C92-1
+Added Pin To Net: NetName=+3V3FE Pin=C92-2

@@ -1,0 +1,616 @@
+Removed Pin From Net: NetName=GND Pin=C75-1
+Removed Pin From Net: NetName=+3V3 Pin=C75-2
+Removed Pin From Net: NetName=GND Pin=C76-1
+Removed Pin From Net: NetName=+3V3 Pin=C76-2
+Removed Pin From Net: NetName=GND Pin=C77-1
+Removed Pin From Net: NetName=+3V3_ANALOG Pin=C77-2
+Removed Pin From Net: NetName=GND Pin=C78-1
+Removed Pin From Net: NetName=+3V3_ANALOG Pin=C78-2
+Removed Pin From Net: NetName=GND Pin=C79-1
+Removed Pin From Net: NetName=+3V3_ANALOG Pin=C79-2
+Removed Pin From Net: NetName=GND Pin=C80-1
+Removed Pin From Net: NetName=+3V3_ANALOG Pin=C80-2
+Removed Pin From Net: NetName=GND Pin=C81-1
+Removed Pin From Net: NetName=GND Pin=C82-1
+Removed Pin From Net: NetName=GND Pin=C83-1
+Removed Pin From Net: NetName=GND Pin=C84-1
+Removed Pin From Net: NetName=GND Pin=C86-1
+Removed Pin From Net: NetName=GND Pin=C88-2
+Removed Pin From Net: NetName=GND Pin=C89-1
+Removed Pin From Net: NetName=GND Pin=C92-2
+Removed Pin From Net: NetName=GND Pin=C93-1
+Removed Pin From Net: NetName=+3V3_ANALOG Pin=C93-2
+Removed Pin From Net: NetName=GND Pin=C94-1
+Removed Pin From Net: NetName=+3V3_ANALOG Pin=C94-2
+Removed Pin From Net: NetName=ADC_IN1 Pin=C96-1
+Removed Pin From Net: NetName=GND Pin=C97-1
+Removed Pin From Net: NetName=ADC_IN2 Pin=C99-1
+Removed Pin From Net: NetName=GND Pin=C100-1
+Removed Pin From Net: NetName=GND Pin=IC7-4
+Removed Pin From Net: NetName=+3V3_ANALOG Pin=IC7-8
+Removed Pin From Net: NetName=+3V3 Pin=IC8-6
+Removed Pin From Net: NetName=GND Pin=IC8-13
+Removed Pin From Net: NetName=ADC_IN1 Pin=IC8-15
+Removed Pin From Net: NetName=ADC_IN2 Pin=IC8-17
+Removed Pin From Net: NetName=+3V3_ANALOG Pin=IC8-23
+Removed Pin From Net: NetName=GND Pin=IC8-25
+Removed Pin From Net: NetName=GND Pin=IC8-A1
+Removed Pin From Net: NetName=GND Pin=IC8-A2
+Removed Pin From Net: NetName=GND Pin=IC8-A3
+Removed Pin From Net: NetName=GND Pin=IC8-A4
+Removed Pin From Net: NetName=GND Pin=IC9-4
+Removed Pin From Net: NetName=+3V3_ANALOG Pin=IC9-8
+Removed Pin From Net: NetName=GND Pin=J4-1
+Removed Pin From Net: NetName=GND Pin=J4-2
+Removed Pin From Net: NetName=GND Pin=J5-1
+Removed Pin From Net: NetName=GND Pin=J5-2
+Removed Pin From Net: NetName=GND Pin=J6-1
+Removed Pin From Net: NetName=GND Pin=J6-2
+Removed Pin From Net: NetName=GND Pin=J7-1
+Removed Pin From Net: NetName=GND Pin=J7-2
+Removed Pin From Net: NetName=VBIAS2 Pin=R29-2
+Removed Pin From Net: NetName=+3V3 Pin=R31-2
+Removed Pin From Net: NetName=GND Pin=R32-1
+Removed Pin From Net: NetName=VBIAS1 Pin=R33-2
+Removed Pin From Net: NetName=VBIAS1 Pin=R43-2
+Removed Pin From Net: NetName=GND Pin=R45-1
+Removed Pin From Net: NetName=VBIAS2 Pin=R46-2
+Removed Pin From Net: NetName=GND Pin=R48-1
+Removed Pin From Net: NetName=GND Pin=RV5-1
+Removed Pin From Net: NetName=GND Pin=RV6-1
+Removed Pin From Net: NetName=GND Pin=RV7-1
+Removed Pin From Net: NetName=GND Pin=RV8-1
+Removed Member From Class: ClassName=AudioCodec Member=C93
+Removed Member From Class: ClassName=AudioCodec Member=C94
+Removed Member From Class: ClassName=AudioCodec Member=C95
+Removed Member From Class: ClassName=AudioCodec Member=C96
+Removed Member From Class: ClassName=AudioCodec Member=C97
+Removed Member From Class: ClassName=AudioCodec Member=C98
+Removed Member From Class: ClassName=AudioCodec Member=C99
+Removed Member From Class: ClassName=AudioCodec Member=C100
+Removed Member From Class: ClassName=AudioCodec Member=J5
+Removed Member From Class: ClassName=AudioCodec Member=J6
+Removed Member From Class: ClassName=AudioCodec Member=J7
+Removed Member From Class: ClassName=AudioCodec Member=R37
+Removed Member From Class: ClassName=AudioCodec Member=R38
+Removed Member From Class: ClassName=AudioCodec Member=R39
+Removed Member From Class: ClassName=AudioCodec Member=R40
+Removed Member From Class: ClassName=AudioCodec Member=R41
+Removed Member From Class: ClassName=AudioCodec Member=R42
+Removed Member From Class: ClassName=AudioCodec Member=R43
+Removed Member From Class: ClassName=AudioCodec Member=R44
+Removed Member From Class: ClassName=AudioCodec Member=R45
+Removed Member From Class: ClassName=AudioCodec Member=R46
+Removed Member From Class: ClassName=AudioCodec Member=RV5
+Removed Member From Class: ClassName=AudioCodec Member=RV6
+Removed Member From Class: ClassName=AudioCodec Member=RV7
+Removed Member From Class: ClassName=AudioCodec Member=RV8
+Added Component: Designator=C75(CAP_0402)
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C76(CAP_0402)
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C77(CAP_0402)
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C78(CAP_0402)
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C79(CAP_0402)
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C80(CAP_0402)
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C81(CAP_0402)
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C82(CAP_0402)
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C83(CAP_0402)
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C84(CAP_0402)
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C85(CAP_0402)
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C86(CAP_0402)
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C87(CAP_0402)
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C88(CAP_0402)
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C89(CAP_0402)
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C90(CAP_0402)
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C91(CAP_0402)
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C92(CAP_0402)
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C93(CAP_0603)
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C94(CAP_0603)
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C95(CAP_0603)
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=FB3(FB_0603)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=IC7(SOT95P280X145-5N - duplicate)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "TLV3541IDBVR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/tlv3541idbvr/texas-instruments?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.ti.com/lit/gpn/tlv3541"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.45mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TLV3541IDBVR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "595-TLV3541IDBVR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TLV3541IDBVR?qs=9lcNTSmDlCoQ%2FjlOWHAJGw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=IC8(SOT95P280X145-5N - duplicate)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "TLV3541IDBVR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/tlv3541idbvr/texas-instruments?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.ti.com/lit/gpn/tlv3541"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.45mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TLV3541IDBVR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "595-TLV3541IDBVR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TLV3541IDBVR?qs=9lcNTSmDlCoQ%2FjlOWHAJGw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=IC9(SOT95P280X145-5N - duplicate)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "TLV3541IDBVR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/tlv3541idbvr/texas-instruments?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.ti.com/lit/gpn/tlv3541"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.45mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TLV3541IDBVR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "595-TLV3541IDBVR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TLV3541IDBVR?qs=9lcNTSmDlCoQ%2FjlOWHAJGw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=IC10(SOT95P280X145-5N - duplicate)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "TLV3541IDBVR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/tlv3541idbvr/texas-instruments?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.ti.com/lit/gpn/tlv3541"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.45mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TLV3541IDBVR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "595-TLV3541IDBVR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TLV3541IDBVR?qs=9lcNTSmDlCoQ%2FjlOWHAJGw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=IC11(SOP65P640X120-16N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "ADC128S052CIMTX/NOPB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/adc128s052cimtxnopb/texas-instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.ti.com/lit/ds/symlink/adc128s052.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ADC128S052CIMTX/NOPB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "926-A128S052CIMTXNPB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=926-A128S052CIMTXNPB"; VariantName = "[No Variations]"
+Added Component: Designator=IC12(SOT95P280X145-5N - duplicate)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "TLV3541IDBVR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/tlv3541idbvr/texas-instruments?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.ti.com/lit/gpn/tlv3541"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.45mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TLV3541IDBVR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "595-TLV3541IDBVR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TLV3541IDBVR?qs=9lcNTSmDlCoQ%2FjlOWHAJGw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=IC13(SOT95P280X145-5N - duplicate)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "TLV3541IDBVR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/tlv3541idbvr/texas-instruments?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.ti.com/lit/gpn/tlv3541"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.45mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TLV3541IDBVR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "595-TLV3541IDBVR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TLV3541IDBVR?qs=9lcNTSmDlCoQ%2FjlOWHAJGw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=IC14(SOT95P280X145-5N - duplicate)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "TLV3541IDBVR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/tlv3541idbvr/texas-instruments?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.ti.com/lit/gpn/tlv3541"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.45mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TLV3541IDBVR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "595-TLV3541IDBVR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TLV3541IDBVR?qs=9lcNTSmDlCoQ%2FjlOWHAJGw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=IC15(SOT95P280X145-5N - duplicate)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "TLV3541IDBVR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/tlv3541idbvr/texas-instruments?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.ti.com/lit/gpn/tlv3541"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.45mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TLV3541IDBVR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "595-TLV3541IDBVR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TLV3541IDBVR?qs=9lcNTSmDlCoQ%2FjlOWHAJGw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=IC16(SOIC127P1030X265-16N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "ISO7740FQDWRQ1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/iso7740fqdwrq1/texas-instruments?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.ti.com/lit/gpn/iso7740-q1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2.65mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ISO7740FQDWRQ1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "595-ISO7740FQDWRQ1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/ISO7740FQDWRQ1?qs=34RfhUjJmKfM2MieHZI64w%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=IC17(DVB0012A)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "DCP020503U"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/dcp020503u/texas-instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.ti.com/lit/gpn/dcp020503"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "DCP020503U"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "595-DCP020503U"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=595-DCP020503U"; VariantName = "[No Variations]"
+Added Component: Designator=J4(09221326921)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "09221326921"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/09221326921/harting?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://b2b.harting.com/files/download/PRD/PDF_DS/PDF_DS_09031200201.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "8.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "HARTING"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "09221326921"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "617-09-22-132-6921"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/HARTING/09221326921?qs=qa49y27LPCH2CheOb1uPAg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R29(RES_0402)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R30(RES_0402)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R31(RES_0402)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R32(RES_0402)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R33(RES_0402)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R34(RES_0402)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R35(RES_0402)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R36(RES_0402)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R37(RES_0402)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C95-1
+Added Pin To Net: NetName=+3V3 Pin=C95-2
+Added Pin To Net: NetName=ADC_IN1 Pin=IC9-3
+Added Pin To Net: NetName=ADC_IN2 Pin=IC12-3
+Added Pin To Net: NetName=+3V3 Pin=IC16-1
+Added Pin To Net: NetName=GND Pin=IC16-2
+Added Pin To Net: NetName=GND Pin=IC16-8
+Added Pin To Net: NetName=+3V3 Pin=IC17-1
+Added Pin To Net: NetName=GND Pin=IC17-2
+Added Pin To Net: NetName=GND Pin=IC17-3
+Added Pin To Net: NetName=ADC_IN1 Pin=J4-20
+Added Pin To Net: NetName=ADC_IN2 Pin=J4-22
+Added Pin To Net: NetName=+3V3 Pin=R37-1
+Added Pin To Net: NetName=+3V3ANA Pin=C82-2
+Added Pin To Net: NetName=+3V3ANA Pin=C93-2
+Added Pin To Net: NetName=+3V3ANA Pin=FB3-1
+Added Pin To Net: NetName=+3V3ANA Pin=IC11-13
+Added Pin To Net: NetName=+3V3ANA Pin=IC16-10
+Added Pin To Net: NetName=+3V3ANA Pin=IC16-16
+Added Pin To Net: NetName=+3V3ANA Pin=IC17-13
+Added Net: Name=+3V3ANA
+Added Pin To Net: NetName=+3V3FE Pin=C75-2
+Added Pin To Net: NetName=+3V3FE Pin=C76-2
+Added Pin To Net: NetName=+3V3FE Pin=C79-2
+Added Pin To Net: NetName=+3V3FE Pin=C80-2
+Added Pin To Net: NetName=+3V3FE Pin=C81-2
+Added Pin To Net: NetName=+3V3FE Pin=C85-2
+Added Pin To Net: NetName=+3V3FE Pin=C86-2
+Added Pin To Net: NetName=+3V3FE Pin=C89-2
+Added Pin To Net: NetName=+3V3FE Pin=C90-2
+Added Pin To Net: NetName=+3V3FE Pin=C94-2
+Added Pin To Net: NetName=+3V3FE Pin=FB3-2
+Added Pin To Net: NetName=+3V3FE Pin=IC7-5
+Added Pin To Net: NetName=+3V3FE Pin=IC8-5
+Added Pin To Net: NetName=+3V3FE Pin=IC9-5
+Added Pin To Net: NetName=+3V3FE Pin=IC10-5
+Added Pin To Net: NetName=+3V3FE Pin=IC11-2
+Added Pin To Net: NetName=+3V3FE Pin=IC12-5
+Added Pin To Net: NetName=+3V3FE Pin=IC13-5
+Added Pin To Net: NetName=+3V3FE Pin=IC14-5
+Added Pin To Net: NetName=+3V3FE Pin=IC15-5
+Added Pin To Net: NetName=+3V3FE Pin=J4-1
+Added Pin To Net: NetName=+3V3FE Pin=J4-2
+Added Net: Name=+3V3FE
+Added Pin To Net: NetName=ADC_CH0_IN Pin=C77-2
+Added Pin To Net: NetName=ADC_CH0_IN Pin=IC11-4
+Added Pin To Net: NetName=ADC_CH0_IN Pin=R29-2
+Added Net: Name=ADC_CH0_IN
+Added Pin To Net: NetName=ADC_CH1_IN Pin=C83-2
+Added Pin To Net: NetName=ADC_CH1_IN Pin=IC11-5
+Added Pin To Net: NetName=ADC_CH1_IN Pin=R31-2
+Added Net: Name=ADC_CH1_IN
+Added Pin To Net: NetName=ADC_CH2_IN Pin=C87-2
+Added Pin To Net: NetName=ADC_CH2_IN Pin=IC11-6
+Added Pin To Net: NetName=ADC_CH2_IN Pin=R33-2
+Added Net: Name=ADC_CH2_IN
+Added Pin To Net: NetName=ADC_CH3_IN Pin=C91-2
+Added Pin To Net: NetName=ADC_CH3_IN Pin=IC11-7
+Added Pin To Net: NetName=ADC_CH3_IN Pin=R35-2
+Added Net: Name=ADC_CH3_IN
+Added Pin To Net: NetName=ADC_CH4_IN Pin=C78-2
+Added Pin To Net: NetName=ADC_CH4_IN Pin=IC11-8
+Added Pin To Net: NetName=ADC_CH4_IN Pin=R30-2
+Added Net: Name=ADC_CH4_IN
+Added Pin To Net: NetName=ADC_CH5_IN Pin=C84-2
+Added Pin To Net: NetName=ADC_CH5_IN Pin=IC11-9
+Added Pin To Net: NetName=ADC_CH5_IN Pin=R32-2
+Added Net: Name=ADC_CH5_IN
+Added Pin To Net: NetName=ADC_CH6_IN Pin=C88-2
+Added Pin To Net: NetName=ADC_CH6_IN Pin=IC11-10
+Added Pin To Net: NetName=ADC_CH6_IN Pin=R34-2
+Added Net: Name=ADC_CH6_IN
+Added Pin To Net: NetName=ADC_CH7_IN Pin=C92-2
+Added Pin To Net: NetName=ADC_CH7_IN Pin=IC11-11
+Added Pin To Net: NetName=ADC_CH7_IN Pin=R36-2
+Added Net: Name=ADC_CH7_IN
+Added Pin To Net: NetName=ADC_CS# Pin=IC11-1
+Added Pin To Net: NetName=ADC_CS# Pin=IC16-11
+Added Net: Name=ADC_CS#
+Added Pin To Net: NetName=ADC_DIN Pin=IC11-14
+Added Pin To Net: NetName=ADC_DIN Pin=IC16-12
+Added Net: Name=ADC_DIN
+Added Pin To Net: NetName=ADC_DOUT Pin=IC11-15
+Added Pin To Net: NetName=ADC_DOUT Pin=IC16-13
+Added Net: Name=ADC_DOUT
+Added Pin To Net: NetName=ADC_IN0 Pin=IC7-3
+Added Pin To Net: NetName=ADC_IN0 Pin=J4-18
+Added Net: Name=ADC_IN0
+Added Pin To Net: NetName=ADC_IN3 Pin=IC14-3
+Added Pin To Net: NetName=ADC_IN3 Pin=J4-24
+Added Net: Name=ADC_IN3
+Added Pin To Net: NetName=ADC_IN4 Pin=IC8-3
+Added Pin To Net: NetName=ADC_IN4 Pin=J4-26
+Added Net: Name=ADC_IN4
+Added Pin To Net: NetName=ADC_IN5 Pin=IC10-3
+Added Pin To Net: NetName=ADC_IN5 Pin=J4-28
+Added Net: Name=ADC_IN5
+Added Pin To Net: NetName=ADC_IN6 Pin=IC13-3
+Added Pin To Net: NetName=ADC_IN6 Pin=J4-30
+Added Net: Name=ADC_IN6
+Added Pin To Net: NetName=ADC_IN7 Pin=IC15-3
+Added Pin To Net: NetName=ADC_IN7 Pin=J4-32
+Added Net: Name=ADC_IN7
+Added Pin To Net: NetName=ADC_SCLK Pin=IC11-16
+Added Pin To Net: NetName=ADC_SCLK Pin=IC16-14
+Added Net: Name=ADC_SCLK
+Added Pin To Net: NetName=DCDCSYNC Pin=IC17-28
+Added Pin To Net: NetName=DCDCSYNC Pin=R37-2
+Added Net: Name=DCDCSYNC
+Added Pin To Net: NetName=GNDANA Pin=C75-1
+Added Pin To Net: NetName=GNDANA Pin=C76-1
+Added Pin To Net: NetName=GNDANA Pin=C77-1
+Added Pin To Net: NetName=GNDANA Pin=C78-1
+Added Pin To Net: NetName=GNDANA Pin=C79-1
+Added Pin To Net: NetName=GNDANA Pin=C80-1
+Added Pin To Net: NetName=GNDANA Pin=C81-1
+Added Pin To Net: NetName=GNDANA Pin=C82-1
+Added Pin To Net: NetName=GNDANA Pin=C83-1
+Added Pin To Net: NetName=GNDANA Pin=C84-1
+Added Pin To Net: NetName=GNDANA Pin=C85-1
+Added Pin To Net: NetName=GNDANA Pin=C86-1
+Added Pin To Net: NetName=GNDANA Pin=C87-1
+Added Pin To Net: NetName=GNDANA Pin=C88-1
+Added Pin To Net: NetName=GNDANA Pin=C89-1
+Added Pin To Net: NetName=GNDANA Pin=C90-1
+Added Pin To Net: NetName=GNDANA Pin=C91-1
+Added Pin To Net: NetName=GNDANA Pin=C92-1
+Added Pin To Net: NetName=GNDANA Pin=C93-1
+Added Pin To Net: NetName=GNDANA Pin=C94-1
+Added Pin To Net: NetName=GNDANA Pin=IC7-2
+Added Pin To Net: NetName=GNDANA Pin=IC8-2
+Added Pin To Net: NetName=GNDANA Pin=IC9-2
+Added Pin To Net: NetName=GNDANA Pin=IC10-2
+Added Pin To Net: NetName=GNDANA Pin=IC11-3
+Added Pin To Net: NetName=GNDANA Pin=IC11-12
+Added Pin To Net: NetName=GNDANA Pin=IC12-2
+Added Pin To Net: NetName=GNDANA Pin=IC13-2
+Added Pin To Net: NetName=GNDANA Pin=IC14-2
+Added Pin To Net: NetName=GNDANA Pin=IC15-2
+Added Pin To Net: NetName=GNDANA Pin=IC16-9
+Added Pin To Net: NetName=GNDANA Pin=IC16-15
+Added Pin To Net: NetName=GNDANA Pin=IC17-12
+Added Pin To Net: NetName=GNDANA Pin=J4-3
+Added Pin To Net: NetName=GNDANA Pin=J4-4
+Added Pin To Net: NetName=GNDANA Pin=J4-5
+Added Pin To Net: NetName=GNDANA Pin=J4-6
+Added Pin To Net: NetName=GNDANA Pin=J4-7
+Added Pin To Net: NetName=GNDANA Pin=J4-8
+Added Pin To Net: NetName=GNDANA Pin=J4-9
+Added Pin To Net: NetName=GNDANA Pin=J4-10
+Added Pin To Net: NetName=GNDANA Pin=J4-11
+Added Pin To Net: NetName=GNDANA Pin=J4-12
+Added Pin To Net: NetName=GNDANA Pin=J4-13
+Added Pin To Net: NetName=GNDANA Pin=J4-14
+Added Pin To Net: NetName=GNDANA Pin=J4-15
+Added Pin To Net: NetName=GNDANA Pin=J4-16
+Added Pin To Net: NetName=GNDANA Pin=J4-17
+Added Pin To Net: NetName=GNDANA Pin=J4-19
+Added Pin To Net: NetName=GNDANA Pin=J4-21
+Added Pin To Net: NetName=GNDANA Pin=J4-23
+Added Pin To Net: NetName=GNDANA Pin=J4-25
+Added Pin To Net: NetName=GNDANA Pin=J4-27
+Added Pin To Net: NetName=GNDANA Pin=J4-29
+Added Pin To Net: NetName=GNDANA Pin=J4-31
+Added Pin To Net: NetName=GNDANA Pin=J4-MH1
+Added Pin To Net: NetName=GNDANA Pin=J4-MH2
+Added Net: Name=GNDANA
+Added Pin To Net: NetName=NetIC7_1 Pin=IC7-1
+Added Pin To Net: NetName=NetIC7_1 Pin=IC7-4
+Added Pin To Net: NetName=NetIC7_1 Pin=R29-1
+Added Net: Name=NetIC7_1
+Added Pin To Net: NetName=NetIC8_1 Pin=IC8-1
+Added Pin To Net: NetName=NetIC8_1 Pin=IC8-4
+Added Pin To Net: NetName=NetIC8_1 Pin=R30-1
+Added Net: Name=NetIC8_1
+Added Pin To Net: NetName=NetIC9_1 Pin=IC9-1
+Added Pin To Net: NetName=NetIC9_1 Pin=IC9-4
+Added Pin To Net: NetName=NetIC9_1 Pin=R31-1
+Added Net: Name=NetIC9_1
+Added Pin To Net: NetName=NetIC10_1 Pin=IC10-1
+Added Pin To Net: NetName=NetIC10_1 Pin=IC10-4
+Added Pin To Net: NetName=NetIC10_1 Pin=R32-1
+Added Net: Name=NetIC10_1
+Added Pin To Net: NetName=NetIC12_1 Pin=IC12-1
+Added Pin To Net: NetName=NetIC12_1 Pin=IC12-4
+Added Pin To Net: NetName=NetIC12_1 Pin=R33-1
+Added Net: Name=NetIC12_1
+Added Pin To Net: NetName=NetIC13_1 Pin=IC13-1
+Added Pin To Net: NetName=NetIC13_1 Pin=IC13-4
+Added Pin To Net: NetName=NetIC13_1 Pin=R34-1
+Added Net: Name=NetIC13_1
+Added Pin To Net: NetName=NetIC14_1 Pin=IC14-1
+Added Pin To Net: NetName=NetIC14_1 Pin=IC14-4
+Added Pin To Net: NetName=NetIC14_1 Pin=R35-1
+Added Net: Name=NetIC14_1
+Added Pin To Net: NetName=NetIC15_1 Pin=IC15-1
+Added Pin To Net: NetName=NetIC15_1 Pin=IC15-4
+Added Pin To Net: NetName=NetIC15_1 Pin=R36-1
+Added Net: Name=NetIC15_1
+Added Pin To Net: NetName=SPI1_CS# Pin=IC5-154
+Added Pin To Net: NetName=SPI1_CS# Pin=IC16-6
+Added Net: Name=SPI1_CS#
+Added Pin To Net: NetName=SPI1_MISO Pin=IC5-153
+Added Pin To Net: NetName=SPI1_MISO Pin=IC16-4
+Added Net: Name=SPI1_MISO
+Added Pin To Net: NetName=SPI1_MOSI Pin=IC5-150
+Added Pin To Net: NetName=SPI1_MOSI Pin=IC16-5
+Added Net: Name=SPI1_MOSI
+Added Pin To Net: NetName=SPI1_SCLK Pin=IC5-155
+Added Pin To Net: NetName=SPI1_SCLK Pin=IC16-3
+Added Net: Name=SPI1_SCLK
+Change Class Name : Old Net Name=AudioCodec New Net Name=MultiChannelADC
+Added Class: Name=IsolationBarriers
+Added Member To Class: ClassName=MultiChannelADC Member=Component IC10 TLV3541IDBVR
+Added Member To Class: ClassName=MultiChannelADC Member=Component IC11 ADC128S052CIMTX/NOPB
+Added Member To Class: ClassName=MultiChannelADC Member=Component IC12 TLV3541IDBVR
+Added Member To Class: ClassName=MultiChannelADC Member=Component IC13 TLV3541IDBVR
+Added Member To Class: ClassName=MultiChannelADC Member=Component IC14 TLV3541IDBVR
+Added Member To Class: ClassName=MultiChannelADC Member=Component IC15 TLV3541IDBVR
+Added Member To Class: ClassName=MultiChannelADC Member=Component R31 49R9
+Added Member To Class: ClassName=MultiChannelADC Member=Component R33 49R9
+Added Member To Class: ClassName=MultiChannelADC Member=Component R36 49R9
+Added Rule: Name=Schematic Supply Nets_5
+Added Rule: Name=Schematic Supply Nets_12
+Added Rule: Name=Schematic Supply Nets_13

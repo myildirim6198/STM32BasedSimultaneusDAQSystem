@@ -1,0 +1,59 @@
+Removed Pin From Net: NetName=+3V3FE Pin=J4-1
+Removed Pin From Net: NetName=+3V3FE Pin=J4-2
+Removed Pin From Net: NetName=GNDANA Pin=J4-4
+Removed Pin From Net: NetName=GNDANA Pin=J4-6
+Removed Pin From Net: NetName=GNDANA Pin=J4-8
+Removed Pin From Net: NetName=GNDANA Pin=J4-10
+Removed Pin From Net: NetName=GNDANA Pin=J4-12
+Removed Pin From Net: NetName=GNDANA Pin=J4-14
+Removed Pin From Net: NetName=GNDANA Pin=J4-16
+Removed Pin From Net: NetName=GNDANA Pin=J4-17
+Removed Pin From Net: NetName=ADC_IN0 Pin=J4-18
+Removed Pin From Net: NetName=ADC_IN1 Pin=J4-20
+Removed Pin From Net: NetName=ADC_IN2 Pin=J4-22
+Removed Pin From Net: NetName=ADC_IN3 Pin=J4-24
+Removed Pin From Net: NetName=ADC_IN4 Pin=J4-26
+Removed Pin From Net: NetName=ADC_IN5 Pin=J4-28
+Removed Pin From Net: NetName=ADC_IN6 Pin=J4-30
+Removed Pin From Net: NetName=ADC_IN7 Pin=J4-32
+Change Component Designator: OldDesignator=C72 NewDesignator=C73
+Change Component Designator: OldDesignator=C73 NewDesignator=C74
+Change Component Designator: OldDesignator=C74 NewDesignator=C75
+Change Component Designator: OldDesignator=C75 NewDesignator=C76
+Change Component Designator: OldDesignator=C76 NewDesignator=C77
+Change Component Designator: OldDesignator=C77 NewDesignator=C78
+Change Component Designator: OldDesignator=C78 NewDesignator=C79
+Change Component Designator: OldDesignator=C79 NewDesignator=C80
+Change Component Designator: OldDesignator=C80 NewDesignator=C81
+Change Component Designator: OldDesignator=C81 NewDesignator=C82
+Change Component Designator: OldDesignator=C82 NewDesignator=C83
+Change Component Designator: OldDesignator=C83 NewDesignator=C84
+Change Component Designator: OldDesignator=C84 NewDesignator=C85
+Added Component: Designator=C72(CAP_0603)
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C72-1
+Added Pin To Net: NetName=+3V3FE Pin=C72-2
+Added Pin To Net: NetName=GNDANA Pin=J4-1
+Added Pin To Net: NetName=ADC_IN0 Pin=J4-2
+Added Pin To Net: NetName=ADC_IN1 Pin=J4-4
+Added Pin To Net: NetName=ADC_IN2 Pin=J4-6
+Added Pin To Net: NetName=ADC_IN3 Pin=J4-8
+Added Pin To Net: NetName=ADC_IN4 Pin=J4-10
+Added Pin To Net: NetName=ADC_IN5 Pin=J4-12
+Added Pin To Net: NetName=ADC_IN6 Pin=J4-14
+Added Pin To Net: NetName=ADC_IN7 Pin=J4-16
+Added Pin To Net: NetName=+3V3FE Pin=J4-17
+Added Pin To Net: NetName=+3V3FE Pin=J4-18
+Added Pin To Net: NetName=GNDANA Pin=J4-20
+Added Pin To Net: NetName=GNDANA Pin=J4-22
+Added Pin To Net: NetName=GNDANA Pin=J4-24
+Added Pin To Net: NetName=GNDANA Pin=J4-26
+Added Pin To Net: NetName=GNDANA Pin=J4-28
+Added Pin To Net: NetName=GNDANA Pin=J4-30
+Added Pin To Net: NetName=GNDANA Pin=J4-32
+Added Member To Class: ClassName=MultiChannelADC Member=Component C82 15n

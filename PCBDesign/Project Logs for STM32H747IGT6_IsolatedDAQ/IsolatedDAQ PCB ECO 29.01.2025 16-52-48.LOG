@@ -1,0 +1,43 @@
+Removed Pin From Net: NetName=ADC_CH0_IN Pin=C66-2
+Removed Pin From Net: NetName=ADC_CH4_IN Pin=C67-2
+Removed Pin From Net: NetName=ADC_CH1_IN Pin=C73-2
+Removed Pin From Net: NetName=ADC_CH5_IN Pin=C74-2
+Removed Pin From Net: NetName=ADC_CH2_IN Pin=C77-2
+Removed Pin From Net: NetName=ADC_CH6_IN Pin=C78-2
+Removed Pin From Net: NetName=ADC_CH3_IN Pin=C81-2
+Removed Pin From Net: NetName=ADC_CH7_IN Pin=C82-2
+Removed Pin From Net: NetName=ADC_CH0_IN Pin=R26-2
+Removed Pin From Net: NetName=ADC_CH4_IN Pin=R27-2
+Removed Pin From Net: NetName=ADC_CH1_IN Pin=R28-2
+Removed Pin From Net: NetName=ADC_CH5_IN Pin=R29-2
+Removed Pin From Net: NetName=ADC_CH2_IN Pin=R30-2
+Removed Pin From Net: NetName=ADC_CH6_IN Pin=R31-2
+Removed Pin From Net: NetName=ADC_CH3_IN Pin=R32-2
+Removed Pin From Net: NetName=ADC_CH7_IN Pin=R33-2
+Added Pin To Net: NetName=ADC_CH7_IN Pin=C66-2
+Added Pin To Net: NetName=ADC_CH3_IN Pin=C67-2
+Added Pin To Net: NetName=ADC_CH6_IN Pin=C73-2
+Added Pin To Net: NetName=ADC_CH2_IN Pin=C74-2
+Added Pin To Net: NetName=ADC_CH5_IN Pin=C77-2
+Added Pin To Net: NetName=ADC_CH1_IN Pin=C78-2
+Added Pin To Net: NetName=ADC_CH4_IN Pin=C81-2
+Added Pin To Net: NetName=ADC_CH0_IN Pin=C82-2
+Added Pin To Net: NetName=ADC_CH7_IN Pin=R26-2
+Added Pin To Net: NetName=ADC_CH3_IN Pin=R27-2
+Added Pin To Net: NetName=ADC_CH6_IN Pin=R28-2
+Added Pin To Net: NetName=ADC_CH2_IN Pin=R29-2
+Added Pin To Net: NetName=ADC_CH5_IN Pin=R30-2
+Added Pin To Net: NetName=ADC_CH1_IN Pin=R31-2
+Added Pin To Net: NetName=ADC_CH4_IN Pin=R32-2
+Added Pin To Net: NetName=ADC_CH0_IN Pin=R33-2
+Change Net Name : Old Net Name=ADC_IN0 New Net Name=ADC_IN7
+Change Net Name : Old Net Name=ADC_IN1 New Net Name=ADC_IN6
+Change Net Name : Old Net Name=ADC_IN2 New Net Name=ADC_IN5
+Change Net Name : Old Net Name=ADC_IN3 New Net Name=ADC_IN4
+Change Net Name : Old Net Name=ADC_IN4 New Net Name=ADC_IN3
+Change Net Name : Old Net Name=ADC_IN5 New Net Name=ADC_IN2
+Change Net Name : Old Net Name=ADC_IN6 New Net Name=ADC_IN1
+Change Net Name : Old Net Name=ADC_IN7 New Net Name=ADC_IN0
+Added Member To Class: ClassName=IsolationBarriers Member=Component C83 100n
+Added Member To Class: ClassName=IsolationBarriers Member=Component C84 100n
+Added Member To Class: ClassName=IsolationBarriers Member=Component C85 10u

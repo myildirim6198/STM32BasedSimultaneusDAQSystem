@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=SPI1_MISO Pin=IC14-4
+Removed Pin From Net: NetName=SPI1_MOSI Pin=IC14-5
+Removed Pin From Net: NetName=SPI1_CS# Pin=IC14-6
+Removed Pin From Net: NetName=ADC_CS# Pin=IC14-11
+Removed Pin From Net: NetName=ADC_DIN Pin=IC14-12
+Removed Pin From Net: NetName=ADC_DOUT Pin=IC14-13
+Added Pin To Net: NetName=SPI1_CS# Pin=IC14-4
+Added Pin To Net: NetName=SPI1_MISO Pin=IC14-5
+Added Pin To Net: NetName=SPI1_MOSI Pin=IC14-6
+Added Pin To Net: NetName=ADC_DIN Pin=IC14-11
+Added Pin To Net: NetName=ADC_DOUT Pin=IC14-12
+Added Pin To Net: NetName=ADC_CS# Pin=IC14-13

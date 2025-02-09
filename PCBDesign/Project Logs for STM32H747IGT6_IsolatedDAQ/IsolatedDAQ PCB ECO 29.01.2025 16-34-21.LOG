@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=GND Pin=C72-1
+Removed Member From Class: ClassName=MultiChannelADC Member=C84
+Added Pin To Net: NetName=GNDANA Pin=C72-1
+Added Member To Class: ClassName=MultiChannelADC Member=Component C72 10u
+Added Member To Class: ClassName=MultiChannelADC Member=Component C73 15n
+Added Member To Class: ClassName=MultiChannelADC Member=Component C74 15n
+Added Member To Class: ClassName=MultiChannelADC Member=Component C76 100n
+Added Member To Class: ClassName=MultiChannelADC Member=Component C78 15n
+Added Member To Class: ClassName=MultiChannelADC Member=Component C79 100n
+Added Member To Class: ClassName=MultiChannelADC Member=Component C80 100n
+Added Member To Class: ClassName=MultiChannelADC Member=Component C81 15n
+Added Member To Class: ClassName=IsolationBarriers Member=Component C83 10u
