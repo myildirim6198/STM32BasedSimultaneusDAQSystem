@@ -9,7 +9,7 @@ This repository includes PCB-project files for a STM32 based isolated DAQ-System
 - USB: USB 2.0 Transceiver Speeds up to 480 Mbit/s (HS), USB-C compatible Interface
 - USB: Fullspeed 12 MBit/s
 - Debug: Serial-Wire-Debug
-- ADC: ADC128S052 12-Bit, 500-kSPS, 8-Channel SAR ADC with single-ended inputs and serial interface
+- ADC: ADC128S052 12-Bit, 500-kSPS, 8-Channel SAR ADC with single-ended inputs and serial interface with a cutoff frequency of 212 kHz (first order RC-Lowpass)
 - Input HARTING 09221326921 32 Position 2.54 mm pitch Horizontal Connector compatible with HARTING 09272326801
 
 # Applications:
