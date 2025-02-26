@@ -1,4 +1,4 @@
-# STM32H7 based isolated Simultaneous data Acquisition System
+# STM32H7 based isolated simultaneous data acquisition system
 
 This repository includes PCB-project files for a STM32 based isolated DAQ-System
 
