@@ -5,7 +5,7 @@ This repository includes PCB-project files for a STM32 based isolated DAQ-System
 # Board Features
 
 - MCU: STM32H747IGT6, ARM Cortex M7 with 480MHz and ARM Cortex M4 with 240 MHz
-- Memory: External: 1x 64 Mbit SDRAM ; External: 1x 128 Mbit  QSPI Flash
+- External memory: 1x 64 Mbit SDRAM, 1x 128 Mbit  QSPI Flash
 - USB: USB 2.0 Transceiver Speeds up to 480 Mbit/s (HS), USB-C compatible Interface
 - USB: Fullspeed 12 MBit/s
 - Debug: Serial-Wire-Debug
